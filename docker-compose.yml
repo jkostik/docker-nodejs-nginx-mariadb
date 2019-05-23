@@ -19,7 +19,7 @@ services:
   ssh:
     image: 'biftin/ssh:latest'
     environment:
-      SSH_PASS: 'nflogin'
+      SSH_PASS: 'u7H:HQ9;Gv:(W]YN'
     ports:
       - '2222:22'
     volumes_from:
